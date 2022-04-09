@@ -4,6 +4,10 @@
  Used React and Lightweight to make Real time candlestick chart
 
  It also provides indicators
+ 
+ Provides closing average.
+ 
+ Provides marker and line.
 
  Live:- <a href="https://vaibhav720.github.io/tradingview-lightweight-candlestick/">https://vaibhav720.github.io/tradingview-lightweight-candlestick/ </a>
  
