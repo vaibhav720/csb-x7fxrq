@@ -13,3 +13,7 @@
  
  
  Sandbox link:- <a href="https://codesandbox.io/s/tradingview-lightweight-candlestick-x7fxrq">https://codesandbox.io/s/tradingview-lightweight-candlestick-x7fxrq </a>
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/56918464/164609053-03f400df-e074-4f14-97a8-a49dbfac10eb.png)
+
